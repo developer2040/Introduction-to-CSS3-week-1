@@ -1,0 +1,38 @@
+h1{
+    color:#ffffff;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header{
+    background: #d3d3d3;
+}
+a{
+    color: #000000;
+    font-weight: bold;
+    background-color: #e3e2e2;
+}
+nav{
+    font-size: 17px;
+}
+h2{
+    color: #02029a;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    display: none;
+}
+section{
+    background-color: #808080;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+tr{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
